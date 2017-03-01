@@ -24,7 +24,7 @@ for(let i in scheduledEvent){
 
 
 /**
- * Schedule a Single function multiple times during a day
+ * Schedule two functions multiple times during a day
  */
 console.log();
 console.log("--- BASIC TEST: Multiple Function in a day---")
