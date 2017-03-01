@@ -5,3 +5,8 @@ You can configure the start Day, start/end hour of the day, the number of times 
 and the number of days.  The first execution is random, then all the others are executed after a fixed amount of minutes calculated from the parameter
 number of times per day.
 
+## Install 
+
+## Examples
+Take a look at [Basic Examples](examples/basic.js)
+
