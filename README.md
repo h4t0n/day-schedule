@@ -6,6 +6,9 @@ and the number of days.  The first execution is random, then all the others are 
 number of times per day.
 
 ## Install 
+```
+$ npm install day-schedule --save
+```
 
 ## Examples
 Take a look at [Basic Examples](examples/basic.js)
