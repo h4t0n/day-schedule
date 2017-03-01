@@ -1,0 +1,32 @@
+{
+  "name": "day-schedule",
+  "version": "1.0.0",
+  "description": "Schedule function(s) randomly during the day(s) ",
+  "main": "./lib/daySchedule.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "scheduler",
+    "schedule",
+    "task"
+  ],
+  "author": "Andrea Tarquini <tarquiniandreagm@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "node-schedule": "^1.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4t0n/day-schedule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h4t0n/day-schedule/issues"
+  },
+  "homepage": "https://github.com/h4t0n/day-schedule#readme"
+}
