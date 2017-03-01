@@ -1,6 +1,6 @@
 {
   "name": "day-schedule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Schedule function(s) randomly during the day(s) ",
   "main": "./lib/daySchedule.js",
   "directories": {
